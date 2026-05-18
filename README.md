@@ -15,12 +15,6 @@ https://yoga-flow-website.vercel.app
 
 ---
 
-## GitHub Repository
-
-https://github.com/aasthasehrawat/YogaFlow-Website
-
----
-
 ## Built With
 
 - React.js
